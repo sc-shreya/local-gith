@@ -1,1 +1,4 @@
- this is for example and let us do it well with what we got
+ this is for example and let us do it well with what we go 
+ adding another line to see the difft
+
+ checking line 2 and 3
